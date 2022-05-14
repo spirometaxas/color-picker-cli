@@ -1,0 +1,36 @@
+{
+  "name": "color-picker-cli",
+  "version": "0.0.1",
+  "description": "Print all ANSI colors to the console!",
+  "bin": {
+    "color-picker-cli": "./src/cli.js"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spirometaxas/color-picker-cli.git"
+  },
+  "scripts": {
+    "cli": "node ./src/cli.js"
+  },
+  "author": "Spiro Metaxas",
+  "license": "MIT",
+  "keywords": [ 
+    "color", 
+    "colors",
+    "colour",
+    "ansi", 
+    "ansi-256",
+    "ansi256",
+    "color picker",
+    "color-picker-cli",
+    "rgb", 
+    "cli",
+    "console",
+    "terminal",
+    "shell",
+    "unicode"
+  ]
+}
